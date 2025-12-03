@@ -1,15 +1,1 @@
-{
-  "name": "example",
-  "version": "1.0.0",
-  "description": "Example JSON file for controller repository",
-  "settings": {
-    "enabled": true,
-    "timeout": 5000,
-    "maxRetries": 3
-  },
-  "features": [
-    "tab-management",
-    "automation",
-    "messaging"
-  ]
-}
+{}
